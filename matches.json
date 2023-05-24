@@ -1,0 +1,1457 @@
+{
+    "filters": {
+        "dateFrom": "2023-05-22",
+        "dateTo": "2023-05-25",
+        "permission": "TIER_ONE"
+    },
+    "resultSet": {
+        "count": 23,
+        "competitions": "SA,PL,BSA,PD,CLI",
+        "first": "2023-05-22",
+        "last": "2023-05-25",
+        "played": 13
+    },
+    "matches": [
+        {
+            "area": {
+                "id": 2114,
+                "name": "Italy",
+                "code": "ITA",
+                "flag": "https://crests.football-data.org/784.svg"
+            },
+            "competition": {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            "season": {
+                "id": 1505,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418557,
+            "utcDate": "2023-05-22T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T16:20:21Z",
+            "homeTeam": {
+                "id": 100,
+                "name": "AS Roma",
+                "shortName": "Roma",
+                "tla": "ROM",
+                "crest": "https://crests.football-data.org/100.svg"
+            },
+            "awayTeam": {
+                "id": 455,
+                "name": "US Salernitana 1919",
+                "shortName": "Salernitana",
+                "tla": "SAL",
+                "crest": "https://crests.football-data.org/455.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57878,
+                    "name": "Andrea Colombo",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2114,
+                "name": "Italy",
+                "code": "ITA",
+                "flag": "https://crests.football-data.org/784.svg"
+            },
+            "competition": {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            "season": {
+                "id": 1505,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418561,
+            "utcDate": "2023-05-22T18:45:00Z",
+            "status": "FINISHED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T16:20:21Z",
+            "homeTeam": {
+                "id": 445,
+                "name": "Empoli FC",
+                "shortName": "Empoli",
+                "tla": "EMP",
+                "crest": "https://crests.football-data.org/445.png"
+            },
+            "awayTeam": {
+                "id": 109,
+                "name": "Juventus FC",
+                "shortName": "Juventus",
+                "tla": "JUV",
+                "crest": "https://crests.football-data.org/109.svg"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57842,
+                    "name": "Giovanni Ayroldi",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            },
+            "season": {
+                "id": 1490,
+                "startDate": "2022-08-05",
+                "endDate": "2023-05-28",
+                "currentMatchday": 37,
+                "winner": null
+            },
+            "id": 416019,
+            "utcDate": "2023-05-22T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 37,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-23T03:01:18Z",
+            "homeTeam": {
+                "id": 67,
+                "name": "Newcastle United FC",
+                "shortName": "Newcastle",
+                "tla": "NEW",
+                "crest": "https://crests.football-data.org/67.png"
+            },
+            "awayTeam": {
+                "id": 338,
+                "name": "Leicester City FC",
+                "shortName": "Leicester City",
+                "tla": "LEI",
+                "crest": "https://crests.football-data.org/338.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro S\u00e9rie A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 7,
+                "winner": null
+            },
+            "id": 432385,
+            "utcDate": "2023-05-22T23:00:00Z",
+            "status": "FINISHED",
+            "matchday": 7,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T16:20:21Z",
+            "homeTeam": {
+                "id": 1771,
+                "name": "Cruzeiro EC",
+                "shortName": "Cruzeiro",
+                "tla": "CRU",
+                "crest": "https://crests.football-data.org/1771.png"
+            },
+            "awayTeam": {
+                "id": 4289,
+                "name": "Cuiab\u00e1 EC",
+                "shortName": "Cuiab\u00e1 EC",
+                "tla": "CUI",
+                "crest": "https://crests.football-data.org/4289_large.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PD.png"
+            },
+            "season": {
+                "id": 1504,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418942,
+            "utcDate": "2023-05-23T17:30:00Z",
+            "status": "FINISHED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T08:20:25Z",
+            "homeTeam": {
+                "id": 558,
+                "name": "RC Celta de Vigo",
+                "shortName": "Celta",
+                "tla": "CEL",
+                "crest": "https://crests.football-data.org/558.svg"
+            },
+            "awayTeam": {
+                "id": 298,
+                "name": "Girona FC",
+                "shortName": "Girona",
+                "tla": "GIR",
+                "crest": "https://crests.football-data.org/298.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 43869,
+                    "name": "Antonio Mat\u00e9u Lahoz",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PD.png"
+            },
+            "season": {
+                "id": 1504,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418934,
+            "utcDate": "2023-05-23T17:30:00Z",
+            "status": "FINISHED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T08:20:25Z",
+            "homeTeam": {
+                "id": 92,
+                "name": "Real Sociedad de F\u00fatbol",
+                "shortName": "Real Sociedad",
+                "tla": "RSO",
+                "crest": "https://crests.football-data.org/92.svg"
+            },
+            "awayTeam": {
+                "id": 267,
+                "name": "UD Almer\u00eda",
+                "shortName": "Almer\u00eda",
+                "tla": "ALM",
+                "crest": "https://crests.football-data.org/267.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 56978,
+                    "name": "Pablo Gonz\u00e1lez",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PD.png"
+            },
+            "season": {
+                "id": 1504,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418937,
+            "utcDate": "2023-05-23T20:00:00Z",
+            "status": "FINISHED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T08:20:25Z",
+            "homeTeam": {
+                "id": 250,
+                "name": "Real Valladolid CF",
+                "shortName": "Valladolid",
+                "tla": "VDD",
+                "crest": "https://crests.football-data.org/250.png"
+            },
+            "awayTeam": {
+                "id": 81,
+                "name": "FC Barcelona",
+                "shortName": "Bar\u00e7a",
+                "tla": "FCB",
+                "crest": "https://crests.football-data.org/81.svg"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 32457,
+                    "name": "C\u00e9sar Soto",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433721,
+            "utcDate": "2023-05-23T22:00:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_G",
+            "lastUpdated": "2023-05-24T08:20:45Z",
+            "homeTeam": {
+                "id": 1766,
+                "name": "CA Mineiro",
+                "shortName": "Mineiro",
+                "tla": "CAM",
+                "crest": "https://crests.football-data.org/1766.png"
+            },
+            "awayTeam": {
+                "id": 1768,
+                "name": "CA Paranaense",
+                "shortName": "Paranaense",
+                "tla": "CAP",
+                "crest": "https://crests.football-data.org/1768.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433709,
+            "utcDate": "2023-05-23T22:00:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_F",
+            "lastUpdated": "2023-05-24T08:20:45Z",
+            "homeTeam": {
+                "id": 5175,
+                "name": "Monagas SC",
+                "shortName": "Monagas SC",
+                "tla": "MSC",
+                "crest": "https://crests.football-data.org/5175.png"
+            },
+            "awayTeam": {
+                "id": 4410,
+                "name": "CSD Colo-Colo",
+                "shortName": "Colo-Colo",
+                "tla": "COL",
+                "crest": "https://crests.football-data.org/4410.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433649,
+            "utcDate": "2023-05-24T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_A",
+            "lastUpdated": "2023-05-24T20:46:48Z",
+            "homeTeam": {
+                "id": 4529,
+                "name": "SD Aucas",
+                "shortName": "SD Aucas",
+                "tla": "SDA",
+                "crest": "https://crests.football-data.org/4529.png"
+            },
+            "awayTeam": {
+                "id": 6803,
+                "name": "Racing Club",
+                "shortName": "Racing Club",
+                "tla": "RAC",
+                "crest": "https://crests.football-data.org/6803.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433661,
+            "utcDate": "2023-05-24T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_B",
+            "lastUpdated": "2023-05-24T20:46:48Z",
+            "homeTeam": {
+                "id": 7119,
+                "name": "CD Independiente Medell\u00edn",
+                "shortName": "Independiente",
+                "tla": "DIM",
+                "crest": "https://crests.football-data.org/7119.png"
+            },
+            "awayTeam": {
+                "id": 7055,
+                "name": "Club Nacional de Football",
+                "shortName": "Club Nacional",
+                "tla": "NAC",
+                "crest": "https://crests.football-data.org/7055.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433673,
+            "utcDate": "2023-05-24T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_C",
+            "lastUpdated": "2023-05-24T20:46:48Z",
+            "homeTeam": {
+                "id": 4261,
+                "name": "Club Bol\u00edvar",
+                "shortName": "Club Bol\u00edvar",
+                "tla": "BOL",
+                "crest": "https://crests.football-data.org/4261.png"
+            },
+            "awayTeam": {
+                "id": 4520,
+                "name": "Barcelona SC",
+                "shortName": "Barcelona SC",
+                "tla": "BAR",
+                "crest": "https://crests.football-data.org/4520.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433720,
+            "utcDate": "2023-05-24T02:00:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_G",
+            "lastUpdated": "2023-05-24T20:46:48Z",
+            "homeTeam": {
+                "id": 5680,
+                "name": "Club Alianza Lima",
+                "shortName": "Alianza Lima",
+                "tla": "ALI",
+                "crest": "https://crests.football-data.org/5680.png"
+            },
+            "awayTeam": {
+                "id": 9379,
+                "name": "Club Libertad Asuncion",
+                "shortName": "Libertad",
+                "tla": "CLA",
+                "crest": "https://crests.football-data.org/9379.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PD.png"
+            },
+            "season": {
+                "id": 1504,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418936,
+            "utcDate": "2023-05-24T17:30:00Z",
+            "status": "IN_PLAY",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T20:46:48Z",
+            "homeTeam": {
+                "id": 94,
+                "name": "Villarreal CF",
+                "shortName": "Villarreal",
+                "tla": "VIL",
+                "crest": "https://crests.football-data.org/94.png"
+            },
+            "awayTeam": {
+                "id": 264,
+                "name": "C\u00e1diz CF",
+                "shortName": "C\u00e1diz CF",
+                "tla": "CAD",
+                "crest": "https://crests.football-data.org/264.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 186379,
+                    "name": "Juan Luis Pulido",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PD.png"
+            },
+            "season": {
+                "id": 1504,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418935,
+            "utcDate": "2023-05-24T17:30:00Z",
+            "status": "IN_PLAY",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T20:46:48Z",
+            "homeTeam": {
+                "id": 86,
+                "name": "Real Madrid CF",
+                "shortName": "Real Madrid",
+                "tla": "RMA",
+                "crest": "https://crests.football-data.org/86.png"
+            },
+            "awayTeam": {
+                "id": 87,
+                "name": "Rayo Vallecano de Madrid",
+                "shortName": "Rayo Vallecano",
+                "tla": "RAY",
+                "crest": "https://crests.football-data.org/87.svg"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 43870,
+                    "name": "Jes\u00fas Gil",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PD.png"
+            },
+            "season": {
+                "id": 1504,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418941,
+            "utcDate": "2023-05-24T17:30:00Z",
+            "status": "IN_PLAY",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T20:46:48Z",
+            "homeTeam": {
+                "id": 285,
+                "name": "Elche CF",
+                "shortName": "Elche",
+                "tla": "ELC",
+                "crest": "https://crests.football-data.org/285.png"
+            },
+            "awayTeam": {
+                "id": 559,
+                "name": "Sevilla FC",
+                "shortName": "Sevilla FC",
+                "tla": "SEV",
+                "crest": "https://crests.football-data.org/559.svg"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57930,
+                    "name": "Isidro D\u00edaz de Mera",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            },
+            "season": {
+                "id": 1490,
+                "startDate": "2022-08-05",
+                "endDate": "2023-05-28",
+                "currentMatchday": 37,
+                "winner": null
+            },
+            "id": 416071,
+            "utcDate": "2023-05-24T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 32,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T17:00:15Z",
+            "homeTeam": {
+                "id": 397,
+                "name": "Brighton & Hove Albion FC",
+                "shortName": "Brighton Hove",
+                "tla": "BHA",
+                "crest": "https://crests.football-data.org/397.svg"
+            },
+            "awayTeam": {
+                "id": 65,
+                "name": "Manchester City FC",
+                "shortName": "Man City",
+                "tla": "MCI",
+                "crest": "https://crests.football-data.org/65.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 11430,
+                    "name": "Simon Hooper",
+                    "type": "REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PD.png"
+            },
+            "season": {
+                "id": 1504,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418938,
+            "utcDate": "2023-05-24T20:00:00Z",
+            "status": "TIMED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T18:00:15Z",
+            "homeTeam": {
+                "id": 80,
+                "name": "RCD Espanyol de Barcelona",
+                "shortName": "Espanyol",
+                "tla": "ESP",
+                "crest": "https://crests.football-data.org/80.svg"
+            },
+            "awayTeam": {
+                "id": 78,
+                "name": "Club Atl\u00e9tico de Madrid",
+                "shortName": "Atleti",
+                "tla": "ATL",
+                "crest": "https://crests.football-data.org/78.svg"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 56948,
+                    "name": "Mario Melero",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PD.png"
+            },
+            "season": {
+                "id": 1504,
+                "startDate": "2022-08-14",
+                "endDate": "2023-06-04",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 418943,
+            "utcDate": "2023-05-24T20:00:00Z",
+            "status": "TIMED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-24T18:00:15Z",
+            "homeTeam": {
+                "id": 90,
+                "name": "Real Betis Balompi\u00e9",
+                "shortName": "Real Betis",
+                "tla": "BET",
+                "crest": "https://crests.football-data.org/90.png"
+            },
+            "awayTeam": {
+                "id": 82,
+                "name": "Getafe CF",
+                "shortName": "Getafe",
+                "tla": "GET",
+                "crest": "https://crests.football-data.org/82.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 15628,
+                    "name": "Ricardo de Burgos",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433733,
+            "utcDate": "2023-05-24T22:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_H",
+            "lastUpdated": "2023-04-05T16:21:04Z",
+            "homeTeam": {
+                "id": 2068,
+                "name": "CA Patronato",
+                "shortName": "Patronato",
+                "tla": "PAT",
+                "crest": "https://crests.football-data.org/2068.png"
+            },
+            "awayTeam": {
+                "id": 9372,
+                "name": "Olimpia Asuncion",
+                "shortName": "Olimpia",
+                "tla": "OLI",
+                "crest": "https://crests.football-data.org/9372.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433672,
+            "utcDate": "2023-05-24T22:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_C",
+            "lastUpdated": "2023-05-10T16:20:46Z",
+            "homeTeam": {
+                "id": 9373,
+                "name": "Club Cerro Porte\u00f1o",
+                "shortName": "Cerro Porte\u00f1o",
+                "tla": "CCP",
+                "crest": "https://crests.football-data.org/9373.png"
+            },
+            "awayTeam": {
+                "id": 1769,
+                "name": "SE Palmeiras",
+                "shortName": "Palmeiras",
+                "tla": "PAL",
+                "crest": "https://crests.football-data.org/1769.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433697,
+            "utcDate": "2023-05-24T22:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_E",
+            "lastUpdated": "2023-04-05T16:21:03Z",
+            "homeTeam": {
+                "id": 7118,
+                "name": "Liverpool FC",
+                "shortName": "Liverpool",
+                "tla": "LIV",
+                "crest": "https://crests.football-data.org/7118.png"
+            },
+            "awayTeam": {
+                "id": 6989,
+                "name": "CAR Independiente del Valle",
+                "shortName": "Independiente",
+                "tla": "IDL",
+                "crest": "https://crests.football-data.org/6989.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2220,
+                "name": "South America",
+                "code": "SAM",
+                "flag": "https://crests.football-data.org/CLI.svg"
+            },
+            "competition": {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            "season": {
+                "id": 1545,
+                "startDate": "2023-02-08",
+                "endDate": "2023-11-11",
+                "currentMatchday": 4,
+                "winner": null
+            },
+            "id": 433708,
+            "utcDate": "2023-05-25T00:00:00Z",
+            "status": "TIMED",
+            "matchday": 4,
+            "stage": "GROUP_STAGE",
+            "group": "GROUP_F",
+            "lastUpdated": "2023-04-05T16:21:03Z",
+            "homeTeam": {
+                "id": 8602,
+                "name": "Deportivo Pereira",
+                "shortName": "Dep. Pereira",
+                "tla": "PER",
+                "crest": "https://crests.football-data.org/8602.png"
+            },
+            "awayTeam": {
+                "id": 2061,
+                "name": "CA Boca Juniors",
+                "shortName": "Boca Juniors",
+                "tla": "BOC",
+                "crest": "https://crests.football-data.org/2061.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        }
+    ]
+}
